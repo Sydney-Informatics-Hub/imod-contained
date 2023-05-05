@@ -25,7 +25,7 @@ imod
 
 ## Push to docker hub
 ```
-sudo docker push nbutter/imod
+sudo docker push sydneyinformaticshub/imod:11.4-centos7
 ```
 
 See the repo at [https://hub.docker.com/r/nbutter/imod](https://hub.docker.com/r/nbutter/imod)
